@@ -1,0 +1,51 @@
+Sorszám@Nem@Kor@Alapbetegségek
+39780@Férfi@64@idült iszkémias szívbetegség, pangásos szívelégtelenség, magasvérnyomás-betegség, cukorbetegség, érelmeszesedés
+39779@Nő@72@pajzsmirigy-túlmuködés
+39778@Nő@64@heveny szívburokgyulladás, érelmeszesedés, szívritmuszavar, magasvérnyomás-betegség, cukorbetegség
+39777@Nő@71@súlyos fokú koszorúveroér-elmeszesedés
+39776@Nő@86@magasvérnyomás-betegség, pajzsmirigy-alulmuködés
+39775@Férfi@72@magasvérnyomás-betegség, prosztata megnagyobbodás
+39774@Nő@84@reflux, krónikus obstruktív tüdobetegség, iszkémiás szívbetegség, magasvérnyomás-betegség
+39773@Férfi@44@magasvérnyomás-betegség
+39772@Férfi@76@krónikus veseelégtelenség, rekeszsérv
+39771@Férfi@43@cukorbetegség, magasvérnyomás-betegség
+39770@Nő@85@súlyos fokú koszorúveroér-elkeményedés
+39769@Nő@83@krónikus veseelégtelenség, krónikus obstruktív tüdobetegség, szívritmuszavar, magasvérnyomás-betegség
+39768@Nő@78@magasvérnyomás-betegség, krónikus veseelégtelenség, cukorbetegség, szívritmuszavar
+39767@Nő@83@demencia, szívinfarktus, tüdobetegség
+39766@Nő@84@magasvérnyomás, általáNős- és agyi érelmeszesedés
+39765@Nő@71@magasvérnyomás-betegség, szívritmuszavar, pajzsmirigy-alulmuködés, krónikus obstruktív tüdobetegség, szívinfarktus, elhízás
+39764@Nő@80@pangásos szívelégtelenség, magasvérnyomás-betegség
+39763@Férfi@86@magasvérnyomás-betegség, prosztata megnagyobbodás, orbánc
+39762@Nő@85@magasvérnyomás-betegség, stroke, cukorbetegség szövodményekkel
+39761@Nő@60@nem ismert alapbetegség
+39760@Férfi@73@magasvérnyomás-betegség, cukorbetegség, krónikus obstruktív tüdobetegség, daganatos betegség
+39759@Nő@81@magasvérnyomás-betegség
+39758@Nő@84@magasvérnyomás-betegség, idült iszkémiás szívbetegség, általáNős érelmeszesedés, agyi infarktus következményei, pangásos szívelégtelenség
+39757@Nő@80@érelmeszesedés, pajzsmirigy-alulmuködés, szívritmuszavar
+39756@Nő@91@magasvérnyomás-betegség, érelmeszesedés, pangásos szívelégtelenség, idült obstruktív tüdobetegség
+39755@Férfi@75@cukorbetegség, magasvérnyomás-betegség, elhízás, zöld hályog, magas vérzsírszint
+39754@Nő@78@paraNőid skizofrénia, infarktus
+39753@Férfi@76@magasvérnyomás, magas vérzsírszint, stroke
+39752@Férfi@84@magasvérnyomás-betegség, cukorbetegség, urológiai mutét
+39751@Férfi@91@halláskárosodás
+39750@Férfi@90@asztma, cukorbetegség, iszkémiás szívbetegség, magasvérnyomás-betegség, krónikus obstruktív tüdobetegség, reflux
+39749@Nő@74@nem ismert alapbetegség
+39748@Férfi@64@magasvérnyomás-betegség, cukorbetegség
+39747@Férfi@65@magasvérnyomás-betegség, cukorbetegség
+39746@Nő@60@cukorbetegség, elhízás
+39745@Nő@77@magasvérnyomás-betegség, agyvérzés
+39744@Férfi@77@daganatos betegség, cukorbetegség, szívritmuszavar, magasvérnyomás-betegség
+39743@Férfi@66@magasvérnyomás-betegség, szívbetegség, daganatos betegség
+39742@Nő@80@daganatos betegség, magasvérnyomás-betegség, bélbetegség, cukorbetegség
+39741@Nő@81@nem ismert alapbetegség
+39740@Nő@83@magasvérnyomás-betegség, bélbetegség
+39739@Nő@85@demencia, Parkinson-kór
+39738@Nő@79@magasvérnyomás-betegség, iszkémiás szívbetegség, cukorbetegség, alsóvégtag ütoér szukület, mélyvénás trombózis
+39737@Nő@71@magas vérnyomás, agyi érbetegség
+39736@Férfi@95@prosztata megnagyobbodás, szívritmuszavar, magasvérnyomás-betegség, iszkémiás szívbetegség
+39735@Férfi@65@akut kismedencei vérzés
+39734@Nő@45@epeko, hasfali sérv, elhízás
+39733@Férfi@72@májbetegség, csigolya meszesedés
+39732@Férfi@71@magasvérnyomás-betegség, asztma, szívbetegség, magas vérzsírszint, magas húgysavszint
+39731@Nő@65@magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, elhízás
